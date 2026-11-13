@@ -40,6 +40,7 @@ Open source is marked 🟢. Works offline after the first load is marked ✈️.
 - [BentoPDF](https://github.com/alam00000/bentopdf) 🟢: a large client-side PDF toolkit for merging, splitting, compressing, converting and editing. Its README says all processing happens in the browser. AGPL-3.0, with a paid licence for closed-source use.
 - [Cromagnon PDF Studio](https://cromagnon.app/studios/pdf-studio) ✈️: annotate, sign, true redaction, merge, split, compress, OCR, password-protect and fill forms, all in the browser. Optional AI summaries use your own key and run only when you ask.
 - [PDF.js viewer](https://mozilla.github.io/pdf.js/web/viewer.html) 🟢: Mozilla's PDF reader, the one built into Firefox. It opens PDFs entirely in the browser.
+- [PDFDaVinci](https://pdfdavinci.com): converts PDF to 300 DPI JPG (ZIP), Word .doc and clean UTF-8 text in the browser. Files stay on the device; the site says you can check in DevTools that 0 bytes are uploaded.
 
 ## Images and photos
 
